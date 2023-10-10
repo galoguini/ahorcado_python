@@ -61,7 +61,7 @@ def muñequito_ASCII(etapa): #funcion para mostrar el muñequito en ASCII segun 
         |       
         ===========
         '''
-    elif etapa == 6: #no se llega a imprimir, pensa que hacer con esto
+    elif etapa == 6: #no se llega a imprimir.
         muñeco = '''
         +-------+
         |       |
