@@ -3,7 +3,7 @@ import os #importo la libreria os para poder usar la funcion cls
 os.system("cls") #limpio todo lo q este puesto antes en la consola
 
 #declaro las variables
-palabras = ["agua", "barro"]
+palabras = ["agua", "barro"] #aca se agrega una lista con la cantidad de palabras que uno quiera.
 palabra_aleatoria = palabras[random.randint(0, len(palabras) - 1)] #selecciono una palabra aleatoria de la lista palabras y la cargo en una variable
 gano = False
 intentos = 0
